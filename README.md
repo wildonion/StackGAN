@@ -1,2 +1,2 @@
 # StackGAN
-My Implementation of Stack GAN using Deep Convolutional Networks
+[COLAB NOTEBOOK](https://colab.research.google.com/drive/1vN89zBmv_Q3PaQwMNLVvNEYGHKvEk0RP?usp=sharing)
